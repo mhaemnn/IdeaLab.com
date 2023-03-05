@@ -26,7 +26,7 @@
 
 title: IdeaLab
 email: ismuhaimin1@gmail.com
-author: mhaemnn
+author: muhaemin
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -50,7 +50,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: /IdeaLab # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 meta:
-  favicon: "/home/mhaemnn/Programs/IdeaLab.com/assets/chemical.png" # the favicon for your site
+  favicon: "/assets/chemical.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -70,10 +70,10 @@ yat:
 # google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "id" # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
